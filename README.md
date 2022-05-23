@@ -1,2 +1,1 @@
-# Robotics-Work
-Projects about Robotics (individual and group)
+# First RoboISM project Individual
